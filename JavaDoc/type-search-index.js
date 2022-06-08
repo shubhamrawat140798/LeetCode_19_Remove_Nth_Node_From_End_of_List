@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.leetcode19.delete_k_th_node","l":"LinkedList"},{"p":"com.leetcode19.delete_k_th_node","l":"Main"},{"p":"com.leetcode19.delete_k_th_node","l":"Node"}]
